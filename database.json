@@ -1,0 +1,17 @@
+{
+  "favorite": [
+    {
+      "id": 1,
+      "createdAt": "2022-05-01 17:50:40.334",
+      "updatedAt": "2022-05-01 17:51:03.928",
+      "name": "Heitor ",
+      "phone": "-",
+      "cpfCnpj": "111.111.111-11",
+      "agency": "1234",
+      "account": "123981203",
+      "bankName": "Supimpa Banco",
+      "email": "heitorpsoa@gmail.com",
+      "pixType": "bank"
+    }
+  ]
+}
